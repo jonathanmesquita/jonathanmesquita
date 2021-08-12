@@ -12,7 +12,7 @@
   <img align="center" alt="Jon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Jon-yoda"  height="128" width="128" src="https://cdn.discordapp.com/attachments/875378941878206517/875446604780412938/Webp.net-gifmaker.gif">
+  <img align="right" alt="Jon-yoda"  height="128" width="128" src="https://cdn.discordapp.com/attachments/875378941878206517/875451834427392010/me_2.gif">
 </div>
   
   ##
