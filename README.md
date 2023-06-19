@@ -1,6 +1,6 @@
 ### Olá! Mundo!
 
-My name is Jonathan Mesquita, and I'm from Brazil (🇧🇷). I have been working as an I.T Manager since 2018 (I also have a past experience in hospitality). I actually study programming as a focus Front End Developer and information security and I have a retro blog where I do it as my personal lab, sharing lots of stuff there every week :)
+My name is Jonathan Mesquita and I'm from Brazil (🇧🇷). I have a strong background in the field of IT, with previous experience in the technology hospitality industry. Currently, I'm focusing my studies on Front End development and information security. In addition, I maintain a retro blog that serves as my personal laboratory, where I share a variety of content every week :)
 
 Would you like to meet me?
 
