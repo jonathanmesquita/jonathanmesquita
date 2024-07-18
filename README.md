@@ -9,14 +9,16 @@ Would you like to meet me?
  
 
  <div>
-  <a href="https://github.com/jonathanmesquita">
+    <div>
+    <a href="https://github.com/jonathanmesquita">
+    <img align="right" alt="Jon-gif-animado"  height="128" width="128" src="https://cdn.discordapp.com/attachments/875378941878206517/1120483574265679943/jon_room_02.gif?ex=66999a25&is=669848a5&hm=045cac3b588dc50f7fa57ff5826ee7fb05a1d463b2d90f91d433173d6677b3c8&">
+    </a>
+    </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanmesquita&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+</div> 
  
- <div>
-   <img align="right" alt="Jon-gif-animado"  height="128" width="128" src="https://cdn.discordapp.com/attachments/875378941878206517/1120483574265679943/jon_room_02.gif?ex=66999a25&is=669848a5&hm=045cac3b588dc50f7fa57ff5826ee7fb05a1d463b2d90f91d433173d6677b3c8&">
- </div>
+
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Jon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
