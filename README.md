@@ -5,10 +5,12 @@ My name is Jonathan Mesquita and I'm from Brazil (🇧🇷). I have a strong bac
 Would you like to meet me?
 
   <a href="https://www.instagram.com/jonathanmesquitas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonathanmesquita/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jonathanmesquita/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <div  style="display: inline_block"> 
     <a href="https://github.com/jonathanmesquita">
     <img align="right" alt="Jon-gif-animado"  height="128" width="128" src="https://cdn.discordapp.com/attachments/875378941878206517/1120483574265679943/jon_room_02.gif?ex=66999a25&is=669848a5&hm=045cac3b588dc50f7fa57ff5826ee7fb05a1d463b2d90f91d433173d6677b3c8&">
     </a>
+  </div>
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanmesquita&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan&layout=compact&langs_count=7&theme=gotham"/>
