@@ -8,7 +8,7 @@ Would you like to meet me?
   <a href="https://www.linkedin.com/in/jonathanmesquita/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <div  style="display: inline"> 
   <a href="https://github.com/jonathanmesquita">
-  <img align="right" alt="Jon-gif-animado"  height="128" width="128" src="https://cdn.discordapp.com/attachments/875378941878206517/1120483574265679943/jon_room_02.gif?ex=66a8c365&is=66a771e5&hm=6422786095eff23ba04b4f285bd947d97a7ce82d2599cc419872345309b4f154&">
+  <img align="right" alt="Jon-gif-animado"  height="128" width="128" src="https://cdn.discordapp.com/attachments/875378941878206517/1120483574265679943/jon_room_02.gif?ex=67ef0ea5&is=67edbd25&hm=a5b9249a3796f87d4aae3ef00d47db91868dfdb721216e228d5945dafb1721d2&">
   </a>
   </div>
  
