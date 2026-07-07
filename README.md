@@ -4,38 +4,92 @@
   <img src="https://cdn.discordapp.com/attachments/875378941878206517/1120483574265679943/jon_room_02.gif" width="200" alt="Jon at his desk" />
 </p>
 
-### 👨‍💻 Sobre mim
+<h3 align="center">Estudante de programação • Suporte de TI em transição para Front End & Segurança da Informação</h3>
 
-Sou o **Jonathan Mesquita**, diretamente do Brasil 🇧🇷, estudante de programação e analista de suporte em transição para o mundo do desenvolvimento Front End e da segurança da informação. 
-
-Tenho background sólido em TI e experiência prévia no setor de hospitalidade tecnológica. Atualmente, foco meus estudos em **HTML, CSS, JavaScript, React** e **bancos de dados**, enquanto mantenho um blog retrô como laboratório pessoal onde compartilho aprendizados, bugs, ideias e caos criativo toda semana ✨
-
-> “Aprender é hackear a si mesmo.”
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathanmesquita/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/jonathanmesquitas/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🔗 Vamos nos conectar?
+### 👨‍💻 Sobre mim
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathanmesquitas/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanmesquita/)
+Sou o **Jonathan Mesquita**, diretamente do Brasil 🇧🇷. Depois de anos como analista de suporte — com passagem pelo setor de hospitalidade tecnológica — estou migrando de cabeça para o **Desenvolvimento Front End** e a **Segurança da Informação**.
+
+Meu background em TI me deu uma vantagem que pouco júnior tem: já resolvi problema de gente com raiva, já rastreei bug em produção sob pressão, e já entendi que 90% do trabalho técnico é comunicação e paciência. Agora estou aplicando essa base em código.
+
+Mantenho um blog retrô como laboratório pessoal, onde documento aprendizados, bugs, ideias e um pouco de caos criativo toda semana ✨
+
+> *"Aprender é hackear a si mesmo."*
+
+---
+
+### 🎯 O que estou focando agora
+
+- 🔭 Construindo projetos autorais que unem **Front End** e **SegInfo**
+- 🌱 Aprofundando em **React**, **JavaScript** e fundamentos de **redes/segurança**
+- 🛠️ Migrando meu conhecimento de suporte técnico para lógica de programação aplicada
+- 💬 Abertos a trocas sobre transição de carreira em TI, front end e cibersegurança
+- ✍️ Documentando tudo no meu blog e no LinkedIn (build in public)
+
+---
+
+### 🚀 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>📌 [NOME DO PROJETO 1]</h4>
+      <p>[Descrição curta de 1-2 linhas sobre o problema que resolve]</p>
+      <a href="#">🔗 Ver repositório</a> · <a href="#">🌐 Demo</a>
+    </td>
+    <td width="50%">
+      <h4>📌 [NOME DO PROJETO 2]</h4>
+      <p>[Descrição curta de 1-2 linhas sobre o problema que resolve]</p>
+      <a href="#">🔗 Ver repositório</a> · <a href="#">🌐 Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📌 [NOME DO PROJETO 3]</h4>
+      <p>[Descrição curta de 1-2 linhas sobre o problema que resolve]</p>
+      <a href="#">🔗 Ver repositório</a> · <a href="#">🌐 Demo</a>
+    </td>
+    <td width="50%">
+      <h4>📝 Blog Retrô</h4>
+      <p>Laboratório pessoal onde compartilho bugs, aprendizados e caos criativo semanalmente.</p>
+      <a href="#">🔗 Visitar blog</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🧰 Tecnologias que uso e estudo
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jonathanmesquita&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmesquita&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
@@ -44,3 +98,5 @@ Tenho background sólido em TI e experiência prévia no setor de hospitalidade 
 <p align="center">
   <img src="https://github.com/jonathanmesquita/jonathanmesquita/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+<p align="center"><i>Sempre em progresso — bugs de hoje são aprendizados de amanhã. 🐛✨</i></p>
