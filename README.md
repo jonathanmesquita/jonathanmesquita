@@ -1,102 +1,73 @@
-<h1 align="center">Olá, mundo! 🌍</h1>
+# Jonathan Mesquita
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/875378941878206517/1120483574265679943/jon_room_02.gif" width="200" alt="Jon at his desk" />
-</p>
+**IT support analyst moving into software development.**
+I build web tools with JavaScript, Node.js and SQL, based on the problems I see in support every day.
 
-<h3 align="center">Estudante de programação • Suporte de TI em transição para Front End & Segurança da Informação</h3>
+> Support taught me where software breaks. Development is how I fix it.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonathanmesquita/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/jonathanmesquitas/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+📍 São Paulo, Brazil · Open to remote work · [jm.dev.br](https://jm.dev.br)
 
----
+## About
 
-### 👨‍💻 Sobre mim
+I work in IT support, close to users, systems and integrations: bank files, APIs, SQL and logs.
+Most of my day is finding out *why* something fails, not only *that* it fails.
 
-Sou o **Jonathan Mesquita**, diretamente do Brasil 🇧🇷. Depois de anos como analista de suporte — com passagem pelo setor de hospitalidade tecnológica — estou migrando de cabeça para o **Desenvolvimento Front End** e a **Segurança da Informação**.
+I now turn that experience into software. My projects start from real support problems,
+run in the browser when they can, and come with tests and written technical decisions.
 
-Meu background em TI me deu uma vantagem que pouco júnior tem: já resolvi problema de gente com raiva, já rastreei bug em produção sob pressão, e já entendi que 90% do trabalho técnico é comunicação e paciência. Agora estou aplicando essa base em código.
+## Current focus
 
-Mantenho um blog retrô como laboratório pessoal, onde documento aprendizados, bugs, ideias e um pouco de caos criativo toda semana ✨
+- Moving from support to software development, aiming at remote, international teams
+- JavaScript and Node.js, REST APIs and SQL
+- Testing, accessibility and clear technical documentation
+- Writing my project documentation in English
 
-> *"Aprender é hackear a si mesmo."*
+## Selected work
 
----
+### [Arriba Platform](https://arriba.jm.dev.br) — flagship project
 
-### 🎯 O que estou focando agora
+Browser-based tools built from real support problems: CNAB 240/400 bank files (read, validate
+and generate), CSV validation, a SQL sandbox with a course, and a private Node.js API for
+sign-in and public-data lookups. Architecture decisions are recorded, the parsers have
+automated tests, and color contrast is checked in both themes on every pull request.
 
-- 🔭 Construindo projetos autorais que unem **Front End** e **SegInfo**
-- 🌱 Aprofundando em **React**, **JavaScript** e fundamentos de **redes/segurança**
-- 🛠️ Migrando meu conhecimento de suporte técnico para lógica de programação aplicada
-- 💬 Abertos a trocas sobre transição de carreira em TI, front end e cibersegurança
-- ✍️ Documentando tudo no meu blog e no LinkedIn (build in public)
+[Live](https://arriba.jm.dev.br) · [Code](https://github.com/jonathanmesquita/arriba_platform) · [Architecture](https://github.com/jonathanmesquita/arriba_platform/blob/main/docs/ARCHITECTURE.md)
 
----
+### [jm.dev.br](https://jm.dev.br) — portfolio
 
-### 🚀 Projetos em Destaque
+My portfolio, built as a project catalog with video previews, case studies and an
+English/Portuguese version. End-to-end tests (Playwright + axe) run on every pull request.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>📌 [NOME DO PROJETO 1]</h4>
-      <p>[Descrição curta de 1-2 linhas sobre o problema que resolve]</p>
-      <a href="#">🔗 Ver repositório</a> · <a href="#">🌐 Demo</a>
-    </td>
-    <td width="50%">
-      <h4>📌 [NOME DO PROJETO 2]</h4>
-      <p>[Descrição curta de 1-2 linhas sobre o problema que resolve]</p>
-      <a href="#">🔗 Ver repositório</a> · <a href="#">🌐 Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📌 [NOME DO PROJETO 3]</h4>
-      <p>[Descrição curta de 1-2 linhas sobre o problema que resolve]</p>
-      <a href="#">🔗 Ver repositório</a> · <a href="#">🌐 Demo</a>
-    </td>
-    <td width="50%">
-      <h4>📝 Blog Retrô</h4>
-      <p>Laboratório pessoal onde compartilho bugs, aprendizados e caos criativo semanalmente.</p>
-      <a href="#">🔗 Visitar blog</a>
-    </td>
-  </tr>
-</table>
+[Live](https://jm.dev.br) · [Code](https://github.com/jonathanmesquita/jm-portfolio)
 
----
+### [Arriba Jump](https://arriba-jump.jm.dev.br) — side project
 
-### 🧰 Tecnologias que uso e estudo
+A pixel-art runner game in plain JavaScript and Canvas, in four languages.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
+[Play](https://arriba-jump.jm.dev.br) · [Code](https://github.com/jonathanmesquita/arriba-jump)
 
----
+## Core skills
 
-### 📊 GitHub Stats
+| Area | Skills |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, accessibility, responsive design |
+| Backend & APIs | Node.js, Express, REST APIs, integrations |
+| Data & systems | SQL, CNAB 240/400 bank files, troubleshooting, logs |
+| Delivery | Git, GitHub Actions, automated tests, Vercel, Render, Cloudflare, technical documentation |
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jonathanmesquita&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmesquita&layout=compact&theme=radical&hide_border=true" />
-</p>
+## Background
 
----
+Before development, I worked in hotel operations and then moved into IT support. Support taught
+me to read logs before guessing, to reproduce a problem before fixing it, and to write things
+down so the next person does not start from zero. I bring the same habits to my code.
 
-### 📈 Contribuições no tempo
+## Languages
 
-<p align="center">
-  <img src="https://github.com/jonathanmesquita/jonathanmesquita/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+- Portuguese — native
+- English — improving; I write my project documentation and case studies in English
 
-<p align="center"><i>Sempre em progresso — bugs de hoje são aprendizados de amanhã. 🐛✨</i></p>
+## Contact
+
+- Portfolio: [jm.dev.br](https://jm.dev.br)
+- LinkedIn: [linkedin.com/in/jonathanmesquita](https://www.linkedin.com/in/jonathanmesquita)
+- E-mail: [jonathan-mesquita@live.com](mailto:jonathan-mesquita@live.com)
